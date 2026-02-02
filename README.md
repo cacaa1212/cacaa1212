@@ -83,4 +83,6 @@ Businesses use many modern tools and technologies to perform Data Analytics.
 |------|--------------------|---------------------|
 |Week 1| Teacher's Daily Teaching Journal System & Sales Data Management Telegram Bot | [Membuat Aplikasi Otomatisasi Menggunakan Google Apps Script](https://edusoftcenter.com/membuat-aplikasi-otomatisasi-menggunakan-google-apps-script-pendekatan-praktis-untuk-data-analyst-pemula/)|
 |Week 2| Data Collection & Understanding | [Practice Documentation](https://docs.google.com/document/d/1hMSn5xx9wiwHImIecbeUAoLlw0N5DYbAizJZr_oMToE/edit?usp=sharing)|
+|Week 3| Data Collection & Understanding | [[Practice Documentation](https://script.google.com/macros/s/AKfycbxAh-IZo-fl6yV4IHcaHL-4uOh0J59fCcD8_SJ0WepwhumL8KekKo7lqy43zyqTsUX1lQ/exec)]
+
 
