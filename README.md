@@ -83,6 +83,6 @@ Businesses use many modern tools and technologies to perform Data Analytics.
 |------|--------------------|---------------------|
 |Week 1| Teacher's Daily Teaching Journal System & Sales Data Management Telegram Bot | [Membuat Aplikasi Otomatisasi Menggunakan Google Apps Script](https://edusoftcenter.com/membuat-aplikasi-otomatisasi-menggunakan-google-apps-script-pendekatan-praktis-untuk-data-analyst-pemula/)|
 |Week 2| Data Collection & Understanding | [Practice Documentation](https://docs.google.com/document/d/1hMSn5xx9wiwHImIecbeUAoLlw0N5DYbAizJZr_oMToE/edit?usp=sharing)|
-|Week 3| Data Collection & Understanding | [[Practice Documentation](https://script.google.com/macros/s/AKfycbxAh-IZo-fl6yV4IHcaHL-4uOh0J59fCcD8_SJ0WepwhumL8KekKo7lqy43zyqTsUX1lQ/exec)]
-
+|Week 3| Data Collection & Understanding | [Practice Documentation](https://script.google.com/macros/s/AKfycbxAh-IZo-fl6yV4IHcaHL-4uOh0J59fCcD8_SJ0WepwhumL8KekKo7lqy43zyqTsUX1lQ/exec)]
+|Week 4| Data Collection & Understanding | [[Practice Documentation](https://www.appsheet.com/start/88b2a3a5-9843-4aa8-8f5f-d486ffb59718?platform=desktop#appName=AplikasiTransaksiATK-368371519&vss=H4sIAAAAAAAAA63PTQrCMBAF4Lu8dU6QXREXUnTT4sZIic0UQ2tSmlQtIXc39Qc37upy3sA3bwKumm6Fl3ULfgjfKacJHEGgnHoS4AIra_xgOwEmsJOXV1gO0jjZOl1lZV5lfV-cibxARDyyj-bJgYclGP9nMwatyHjdaBpmeXaS-FbSejZS8FtAZLiMXp46er6WhBhT1th6dKT2qebiem5j1vdeGrW1Kh1oZOcoPgD7qMa3qwEAAA==&view=Transaksi_ATK_AppSheet)]
 
