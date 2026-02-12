@@ -12,7 +12,7 @@
 - [📖 Penjelasan Detail Tugas](#-penjelasan-detail-tugas)
 - [🛠️ Tools & Teknologi](#️-tools--teknologi)
 - [📊 Progress Tugas](#-progress-tugas)
-- [📫 Kontak](#-kontak)
+
 
 ---
 
